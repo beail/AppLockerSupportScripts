@@ -1,4 +1,4 @@
-# This script reads exported AppLocker policies (XML) and search for Allowed FileHashRules - These file hashes are then queried against VirusTotal APIs for detections
+# This script reads exported AppLocker policies (XML) and searches for Allowed FileHashRules - These file hashes are then queried against VirusTotal APIs for detections
 # Usage: 
 # Use the $VTApiKey variable to provide your VirusTotal Total API key
 # Use the -PolicyFile script parameter to point to your exported policy file
